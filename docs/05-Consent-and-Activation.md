@@ -1,5 +1,7 @@
 # 5. Consent & activation
 
+Language: **English** · [中文](zh-CN/05-Consent-and-Activation.md)
+
 [← Upload & encryption](04-Upload-and-Encryption.md) · Next: [Security weaknesses →](06-Security-Weaknesses.md)
 
 Every collection and upload path is gated by one global flag,

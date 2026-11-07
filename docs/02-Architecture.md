@@ -1,5 +1,7 @@
 # 2. Architecture & components
 
+Language: **English** · [中文](zh-CN/02-Architecture.md)
+
 [← Overview](01-Overview.md) · Next: [Data collection →](03-Data-Collection.md)
 
 ## Process & privilege model

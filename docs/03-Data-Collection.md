@@ -1,5 +1,7 @@
 # 3. What data is collected
 
+Language: **English** · [中文](zh-CN/03-Data-Collection.md)
+
 [← Architecture](02-Architecture.md) · Next: [Upload & encryption →](04-Upload-and-Encryption.md)
 
 Three payload shapes: the **location+signal snapshot**, the **device registration**, and

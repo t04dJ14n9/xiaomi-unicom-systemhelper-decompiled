@@ -1,5 +1,7 @@
 # SystemHelper wiki
 
+Language: **English** · [中文](zh-CN/Home.md)
+
 A technical wiki for the decompiled **`com.mobiletools.systemhelper`** — China Unicom's
 device-registration and network-telemetry client, preinstalled as a privileged system
 app in Xiaomi HyperOS.

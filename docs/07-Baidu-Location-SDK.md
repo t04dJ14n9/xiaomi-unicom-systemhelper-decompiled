@@ -1,5 +1,7 @@
 # 7. Baidu location SDK
 
+Language: **English** · [中文](zh-CN/07-Baidu-Location-SDK.md)
+
 [← Security weaknesses](06-Security-Weaknesses.md) · Next: [Class reference →](08-Class-Reference.md)
 
 The precise coordinates in each 30-minute snapshot do not come from Android's own location

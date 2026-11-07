@@ -1,5 +1,7 @@
 # 6. Security weaknesses
 
+Language: **English** · [中文](zh-CN/06-Security-Weaknesses.md)
+
 [← Consent & activation](05-Consent-and-Activation.md) · Next: [Baidu SDK →](07-Baidu-Location-SDK.md)
 
 These are properties of the code and manifest. Where a weakness was only read from code and

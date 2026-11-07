@@ -1,5 +1,7 @@
 # 4. Upload protocol & encryption
 
+Language: **English** · [中文](zh-CN/04-Upload-and-Encryption.md)
+
 [← Data collection](03-Data-Collection.md) · Next: [Consent & activation →](05-Consent-and-Activation.md)
 
 ## Endpoint

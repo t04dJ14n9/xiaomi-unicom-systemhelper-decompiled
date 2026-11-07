@@ -1,5 +1,7 @@
 # com.mobiletools.systemhelper — decompiled
 
+Language: **English** · [中文](README.zh-CN.md)
+
 Decompiled source of **`com.mobiletools.systemhelper`** (label **"SystemHelper"**), a
 privileged system app preinstalled in Xiaomi HyperOS. Despite the generic name, it is
 **China Unicom's device-registration and mobile-network telemetry client**. It runs on

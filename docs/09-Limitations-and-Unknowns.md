@@ -1,5 +1,7 @@
 # 9. Limitations & unknowns
 
+Language: **English** · [中文](zh-CN/09-Limitations-and-Unknowns.md)
+
 [← Class reference](08-Class-Reference.md) · [Home](Home.md)
 
 This wiki is built mostly from **static** reading of decompiled code, plus a few

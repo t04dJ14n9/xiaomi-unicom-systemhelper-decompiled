@@ -1,5 +1,7 @@
 # 8. Class reference (obfuscated → recovered names)
 
+Language: **English** · [中文](zh-CN/08-Class-Reference.md)
+
 [← Baidu SDK](07-Baidu-Location-SDK.md) · Next: [Limitations →](09-Limitations-and-Unknowns.md)
 
 The files in `sources/` keep their **obfuscated** names. This page maps each relevant class
